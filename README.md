@@ -1,4 +1,5 @@
 # Hospital_System
+Nhằm góp phần mang đến sự tiện lợi cho các bệnh nhân, website Hospital_System được tạo ra góp phần giúp mọi người có nhu cầu chữa khám bệnh thuận tiện cho việc đặt lịch khám để dễ  dàng theo dõi lịch trình đến khám, giúp tiết kiệm khá nhiều thời gian và công sức.
 <h3>Project Use:</h3>
 Servlet, JSP.
 Bootstrap 5.
